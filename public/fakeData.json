@@ -1,0 +1,87 @@
+[
+    {
+      "recipe_image": "https://i.ibb.co/VH0ZmFj/Air-Fryer-Chicken-Curry-square-FS-36.jpg",
+      "recipe_id": 1,
+      "recipe_name": "Chicken Curry",
+      "short_description": "A flavorful and aromatic chicken curry dish.",
+      "ingredients": [
+        "550 g chicken",
+        "120 ml soy sauce",
+        "200 g basil leaves",
+        "400 g mushrooms"
+      ],
+      "preparing_time": "45 min",
+      "calories": "380 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co/kmGv3hs/Beef12357.jpg",
+      "recipe_id": 2,
+      "recipe_name": "Spaghetti Bolognese",
+      "short_description": "Classic Italian pasta dish with a rich tomato and meat sauce.",
+      "ingredients": [
+        "400 g spaghetti",
+        "250 g ground beef",
+        "500 ml tomato sauce",
+        "100 g grated Parmesan cheese"
+      ],
+      "preparing_time": "35 min",
+      "calories": "420 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co/NVJq8FY/2196984.jpg",
+      "recipe_id": 3,
+      "recipe_name": "Vegetable Stir Fry",
+      "short_description": "Quick and healthy stir-fried vegetables with tofu.",
+      "ingredients": [
+        "300 g mixed vegetables (bell peppers, broccoli, carrots)",
+        "150 g tofu",
+        "50 ml soy sauce",
+        "2 cloves garlic, minced"
+      ],
+      "preparing_time": "25 min",
+      "calories": "250 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co/p2VwFHX/1371614296995.jpg",
+      "recipe_id": 4,
+      "recipe_name": "Greek Salad",
+      "short_description": "Refreshing salad with tomatoes, cucumbers, feta cheese, and olives.",
+      "ingredients": [
+        "200 g tomatoes, chopped",
+        "150 g cucumbers, sliced",
+        "100 g feta cheese, crumbled",
+        "50 g black olives"
+      ],
+      "preparing_time": "15 min",
+      "calories": "180 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co/hCfgYrG/parmesan-chicken.jpg",
+      "recipe_id": 5,
+      "recipe_name": "Chocolate Cake",
+      "short_description": "Indulgent and moist chocolate cake perfect for any occasion.",
+      "ingredients": [
+        "200 g all-purpose flour",
+        "150 g granulated sugar",
+        "100 g unsweetened cocoa powder",
+        "200 ml milk"
+      ],
+      "preparing_time": "50 min",
+      "calories": "350 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co/1rRhMYG/1660928170362.jpg",
+      "recipe_id": 6,
+      "recipe_name": "Fruit Smoothie",
+      "short_description": "Refreshing blend of mixed fruits for a healthy start to your day.",
+      "ingredients": [
+        "1 banana",
+        "100 g strawberries",
+        "100 g blueberries",
+        "200 ml yogurt"
+      ],
+      "preparing_time": "10 min",
+      "calories": "150 calories"
+    }
+  ]
+  
